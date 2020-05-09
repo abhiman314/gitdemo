@@ -6,7 +6,7 @@ echo "Hellow Jenkins"
 PASSWORD=$(date +%s)
 echo "${PASSWORD}"
 
-
+echo "New Line 1"
 echo "Trigger Jenkins job"
 
 
